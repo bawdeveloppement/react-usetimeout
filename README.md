@@ -3,6 +3,7 @@ A simple and reusable hook for executing a function and at the same showing the 
 
 # HOW-TO-USE
 ```jsx
+import useTimeout from './timeout.hook.js'
 const PageNotFound = ({ redirect }) => {
     const navigate = useNavigate();
     return <div>
