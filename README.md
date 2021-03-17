@@ -1,7 +1,7 @@
 # react-usetimeout
 A simple and reusable hook for executing a function and at the same showing the left time
 
-# HOW-TO-USE
+## HOW-TO-USE
 ```jsx
 import useTimeout from './timeout.hook.js'
 const PageNotFound = ({ redirect }) => {
